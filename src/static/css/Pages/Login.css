@@ -1,0 +1,14 @@
+.login-div{
+    margin: 150px auto;
+    width: 400px;
+    
+}
+.login-Enter{
+    margin-left: 80px
+}
+.login-clear{
+    margin-left: 60px
+}
+body{
+    background-color: #f8f9fe;
+}
